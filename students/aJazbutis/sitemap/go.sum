@@ -1,0 +1,8 @@
+github.com/aJazbutis/link v1.0.0 h1:36Pll2vyHkuARCa7BQbAY2oDHBiy/ild1Qpa1dd3VzQ=
+github.com/aJazbutis/link v1.0.0/go.mod h1:k7l7xrB5JL3BJYRdKgeU/yOJCgvHd3n/tWxWSJ/rGj8=
+github.com/aJazbutis/link v1.0.1-0.20240422161901-0b8dce9297d9 h1:piw+ZUK0bdf7JqFALQfkZhiCP1aPu4Pxupewdzwq4IU=
+github.com/aJazbutis/link v1.0.1-0.20240422161901-0b8dce9297d9/go.mod h1:k7l7xrB5JL3BJYRdKgeU/yOJCgvHd3n/tWxWSJ/rGj8=
+github.com/aJazbutis/link v1.0.1-0.20240422185005-c42a7ed2c962 h1:LqlM00rO1muqz+nMNySDuaiqk2ZX150hRcSWRpnmiSE=
+github.com/aJazbutis/link v1.0.1-0.20240422185005-c42a7ed2c962/go.mod h1:k7l7xrB5JL3BJYRdKgeU/yOJCgvHd3n/tWxWSJ/rGj8=
+golang.org/x/net v0.24.0 h1:1PcaxkF854Fu3+lvBIx5SYn9wRlBzzcnHZSiaFFAb0w=
+golang.org/x/net v0.24.0/go.mod h1:2Q7sJY5mzlzWjKtYUEXSlBWCdyaioyXzRB2RtU8KVE8=
